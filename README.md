@@ -1,4 +1,4 @@
-# custom-solutions
+# custom-solutions with AWS CDK
 
  1.How to Dynamically register Fargate Ip's dynamically when the Service is not created as a part of CDK App with the help of CDK custom resources
 
